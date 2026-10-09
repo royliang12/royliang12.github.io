@@ -1,0 +1,150 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Roy Liang
+  given: Roy
+  family: Liang
+  alternate: ''  # 中文姓名，例如 王小明（可留空）
+  pronunciation: ''
+  pronouns: ''
+postnominals: []
+status:
+  icon: "📍"
+role: Graduate Student, National Development
+bio: |
+  NTU graduate student in National Development and CFA Level II candidate with a
+  foundation in finance and economics. I have worked across banking operations,
+  retail finance data analysis, real estate appraisal, financial research, and
+  spatial analytics, building practical skills in Python, QGIS, VBA, and text mining.
+
+  I am particularly interested in applying data, spatial analysis, and financial
+  domain knowledge to create actionable value in commercial banking and capital markets.
+
+affiliations:
+  - name: National Taiwan University
+    url: https://www.ntu.edu.tw/
+
+# Contact / social links. Add your own below (uncomment and fill in).
+links:
+  - icon: brands/github
+    url: https://github.com/royliang12
+  # - icon: brands/linkedin
+  #   url: https://www.linkedin.com/in/YOUR-ID/
+  # - icon: at-symbol
+  #   url: mailto:YOUR-EMAIL
+  #   label: E-mail Me
+
+interests:
+  - Spatial Analysis & GIS
+  - Text Mining
+  - Credit & Financial Analysis
+  - Real Estate Appraisal
+  - Commercial Banking & Capital Markets
+
+education:
+  - degree: Master's degree, National Development
+    institution: National Taiwan University
+    year: 2024 – Present   # shown on the home page; the Experience page uses start/end
+    start: 2024-06-01
+    summary: |
+      Spatial analysis, text mining.
+  - degree: Bachelor's degree, Finance
+    institution: National Taipei University of Business
+    year: 2022 – 2024
+    start: 2022-07-01
+    end: 2024-06-30
+    summary: |
+      Grade: 4.0 / 4.0
+
+experience:
+  - role: Data Analyst Intern
+    org: Cathay Life Insurance Co., Ltd. · Taipei
+    start: 2026-09-01
+
+  - role: Corporate Banking Intern
+    org: Fubon Hua Yi Bank (富邦华一银行) · Tianjin
+    start: 2026-07-01
+    end: 2026-08-31
+    summary: |
+      - Independently authored the financial analysis section of a credit report for an A-share and H-share listed manufacturing conglomerate (registered capital: RMB 4B–5B), assessing a new RMB 100M–500M credit request at the pre-lending stage through three-statement analysis and key financial ratios; report reviewed before submission to the Credit Approval Department.
+      - Assisted with processing of a domestic letter of credit (RMB 50M–100M) for a corporate client (registered capital: RMB 4B–5B), supporting transaction execution and system data entry.
+      - Assisted with post-loan monitoring and anomaly analysis for a manufacturing client, compiling site visit findings, financial statement reviews, and cash-flow tracking data to support credit risk assessment and proposed covenant adjustments.
+    tags: [Financial Analysis, Credit Analysis]
+
+  - role: Geospatial Analyst Intern
+    org: Cathay Life Insurance Co., Ltd. · Taipei
+    start: 2026-02-01
+    end: 2026-07-31
+    summary: |
+      - Conducted QGIS-based spatial analysis and spatial statistics on bank branch networks and shutdown points across 100+ outlets, using branch locations, ATM density and surrounding POI patterns to support industry and corporate strategy research.
+      - Analyzed 30,000+ anonymized, location-tagged member and transaction records to uncover visit patterns and high-value segments, providing input for more precise, data-driven campaign and customer engagement strategies.
+      - Assisted in drafting real estate valuation reports for real estate–backed lending collateral, strengthening my understanding of how property appraisal feeds into valuation, risk assessment, and credit decisions.
+    tags: [Real Estate Appraisal, Python, QGIS]
+
+  - role: Member
+    org: OIC Taipei · Taipei
+    start: 2025-09-01
+    end: 2026-06-30
+    summary: |
+      - Conducted macro, policy, and market research on major global events, analyzing their impact on asset classes and sector performance.
+      - Collected and processed economic and market data from public and institutional sources to support evidence-based investment views.
+      - Contributed to idea generation and discussion on investment strategies, helping translate research findings into actionable portfolio decisions.
+    tags: [Financial Analysis, Market Research]
+
+  - role: Research Assistant
+    org: National Taiwan University · Taipei (Part-time, Remote)
+    start: 2025-02-01
+    end: 2026-01-31
+    summary: |
+      - Assisted a faculty member with Python code review and corpus proofreading for text analysis projects, ensuring teaching materials and research scripts were accurate and reproducible.
+      - Served as a teaching assistant for text mining and GIS spatial analysis, answering students' questions, guiding research design, and supporting applied projects in public policy and urban studies.
+    tags: [Quantum GIS, Text Mining]
+
+  - role: Project Assistant
+    org: CIER · Taipei
+    start: 2025-07-01
+    end: 2025-08-31
+    summary: |
+      - Conducted case-based financial and geopolitical risk analysis on Taiwanese listed companies in the electronics and semiconductor sectors, focusing on investment exposure in mainland China.
+      - Used Python and VBA to crawl think-tank articles and semi-automate text cleaning and structuring for dashboard development on Chinese economic and policy-related content.
+    tags: [Python, Financial Analysis]
+
+  - role: Business Operations Intern
+    org: China Zheshang Bank · Hangzhou
+    start: 2024-07-01
+    end: 2024-08-31
+    summary: |
+      - Used management-provided performance indicators to rank high-performing and underperforming branches, supporting regional management's branch performance review and strategic discussions.
+      - Developed and delivered internal briefing decks on compliance sales, risk management, and branch performance results for frontline staff and managers across the Yangtze River Delta network.
+    tags: [Python, VBA]
+
+  - role: Branch Operations Intern
+    org: Taiwan Cooperative Bank (合作金庫商業銀行) · Taipei
+    start: 2024-02-01
+    end: 2024-06-30
+    summary: |
+      - Handled front-office retail banking operations, including account services and teller transactions, while maintaining accurate and compliant processing under time pressure.
+      - Supported branch sales efforts by introducing retail banking and insurance products to walk-in customers, strengthening my understanding of day-to-day customer needs and frontline operations.
+    tags: [Data Analysis, Retail Banking]
+
+skills:
+  - name: Technical
+    items:
+      - label: Python
+      - label: QGIS / Spatial Analysis
+      - label: VBA
+      - label: Text Mining
+  - name: Finance
+    items:
+      - label: Financial Analysis
+      - label: Credit Analysis
+      - label: Real Estate Appraisal
+      - label: Market Research
+
+awards:
+  - title: CFA Program Level I
+    awarder: CFA Institute
+    date: "2025-06-01"
+    summary: Level II candidate.
+    icon: hero/trophy

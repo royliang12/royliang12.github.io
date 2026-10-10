@@ -1,6 +1,6 @@
 ---
 title: "Spatial Analysis of Bank Branch Closures"
-date: 2026-05
+date: "2026.May-2026.July"
 summary: "An exploratory, multi-scale spatial analysis of what location characteristics distinguish closed from retained bank branches, using public data only."
 tags:
   - Spatial analysis

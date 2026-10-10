@@ -13,9 +13,9 @@ status:
   icon: "📍"
 role: Master's Student
 bio: |
-I am a master’s student in National Development at National Taiwan University, with an academic background in finance and economics. My research uses computational text analysis to study how firms communicate about politics and policy in their public disclosures, applying language models and embedding-based methods to turn large corpora of corporate text into measurable quantities. I am also interested in spatial analysis, and I use GIS and spatial statistics to examine how location and neighborhood structure shape economic and financial outcomes, particularly in real estate and banking networks.
+  I am a master’s student in National Development at National Taiwan University, with an academic background in finance and economics. My research uses computational text analysis to study how firms communicate about politics and policy in their public disclosures, applying language models and embedding-based methods to turn large corpora of corporate text into measurable quantities. I am also interested in spatial analysis, and I use GIS and spatial statistics to examine how location and neighborhood structure shape economic and financial outcomes, particularly in real estate and banking networks.
 
-Across these projects I combine quantitative methods in Python and QGIS with domain knowledge from finance and credit analysis. My research assistant and teaching assistant work in text mining and GIS gave me experience in reproducible research workflows, and I am a CFA Level II candidate. I am interested in questions where textual, spatial, and financial data meet, and in how measurement choices affect what we can conclude from them.
+  Across these projects I combine quantitative methods in Python and QGIS with domain knowledge from finance and credit analysis. My research assistant and teaching assistant work in text mining and GIS gave me experience in reproducible research workflows, and I am a CFA Level II candidate. I am interested in questions where textual, spatial, and financial data meet, and in how measurement choices affect what we can conclude from them.
 
 affiliations:
   - name:  Graduate Institute of National Development, National Taiwan University

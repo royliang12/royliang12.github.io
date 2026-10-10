@@ -2,8 +2,8 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Gui-Ping(Roy) Liang
-  given: Gui-Ping(Roy)
+  display: Gui-Ping (Roy) Liang
+  given: Gui-Ping (Roy)
   family: Liang
   alternate: '梁貴評'  # 中文姓名
   pronunciation: ''

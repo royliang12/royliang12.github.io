@@ -3,37 +3,33 @@ slug: me
 is_owner: true
 name:
   display: Roy Liang
-  given: Roy
+  given: Gui-Ping(Roy)
   family: Liang
-  alternate: ''  # 中文姓名，例如 王小明（可留空）
+  alternate: '梁貴評'  # 中文姓名，例如 王小明（可留空）
   pronunciation: ''
   pronouns: ''
 postnominals: []
 status:
   icon: "📍"
-role: Graduate Student, National Development
+role: Master's Student
 bio: |
-  NTU graduate student in National Development and CFA Level II candidate with a
-  foundation in finance and economics. I have worked across banking operations,
-  retail finance data analysis, real estate appraisal, financial research, and
-  spatial analytics, building practical skills in Python, QGIS, VBA, and text mining.
+I am a master’s student in National Development at National Taiwan University, with an academic background in finance and economics. My research uses computational text analysis to study how firms communicate about politics and policy in their public disclosures, applying language models and embedding-based methods to turn large corpora of corporate text into measurable quantities. I am also interested in spatial analysis, and I use GIS and spatial statistics to examine how location and neighborhood structure shape economic and financial outcomes, particularly in real estate and banking networks.
 
-  I am particularly interested in applying data, spatial analysis, and financial
-  domain knowledge to create actionable value in commercial banking and capital markets.
+Across these projects I combine quantitative methods in Python and QGIS with domain knowledge from finance and credit analysis. My research assistant and teaching assistant work in text mining and GIS gave me experience in reproducible research workflows, and I am a CFA Level II candidate. I am interested in questions where textual, spatial, and financial data meet, and in how measurement choices affect what we can conclude from them.
 
 affiliations:
-  - name: National Taiwan University
-    url: https://www.ntu.edu.tw/
+  - name:  Graduate Institute of National Development, National Taiwan University
+    url: https://www.nd.ntu.edu.tw/
 
 # Contact / social links. Add your own below (uncomment and fill in).
 links:
   - icon: brands/github
     url: https://github.com/royliang12
-  # - icon: brands/linkedin
-  #   url: https://www.linkedin.com/in/YOUR-ID/
-  # - icon: at-symbol
-  #   url: mailto:YOUR-EMAIL
-  #   label: E-mail Me
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/royliang1225/
+  - icon: at-symbol
+    url: mailto:royliang1225@gmail.com
+    label: E-mail Me
 
 interests:
   - Spatial Analysis & GIS
@@ -46,13 +42,13 @@ education:
   - degree: Master's degree, National Development
     institution: National Taiwan University
     year: 2024 – Present   # shown on the home page; the Experience page uses start/end
-    start: 2024-06-01
+    start: 2024-09-01
     summary: |
       Spatial analysis, text mining.
   - degree: Bachelor's degree, Finance
     institution: National Taipei University of Business
     year: 2022 – 2024
-    start: 2022-07-01
+    start: 2022-09-01
     end: 2024-06-30
     summary: |
       Grade: 4.0 / 4.0

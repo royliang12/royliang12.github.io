@@ -41,9 +41,7 @@ sections:
 
         Using TEJ's TESG ratings and about 10,700 firm-year observations of non-financial firms listed on the TWSE and TPEx (2015–2021), I estimate fixed-effects panel regressions, selected by Hausman tests, of cost of debt, cost of equity, and risk (the three-year standard deviation of ROA) on ESG ratings and on rating upgrades and downgrades, with year and industry effects and separate estimates for electronics and non-electronics firms.
 
-        Main findings: higher ESG ratings are not significantly associated with the cost of debt, but are significantly associated with a lower cost of equity and lower risk. In the short run, rating upgrades coincide with a higher cost of debt. The patterns are stronger among non-electronics firms.
-
-        A related working paper, *ESG Ratings, Capital Costs, and Corporate Risk: Evidence from Taiwan*, co-authored with 第一作者 and 第二作者, is in preparation.
+        **Working paper:** Yun-Chia Yan, Li-Chuan Chou, and Gui-Ping Liang, "Do ESG Improvements Pay Off? Evidence on Cost of Capital, Risk, and Adjustment Frictions."
     design:
       columns: '1'
 ---

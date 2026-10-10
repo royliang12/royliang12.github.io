@@ -32,7 +32,7 @@ sections:
   - block: markdown
     id: research
     content:
-      title: '📚 Research'
+      title: 'Research'
       subtitle: ''
       text: |-
         ### The Impact of ESG Ratings on Firms' Cost of Capital and Risk

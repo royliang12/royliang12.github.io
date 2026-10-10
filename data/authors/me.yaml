@@ -10,7 +10,7 @@ name:
   pronouns: ''
 postnominals: []
 status:
-  icon: "🐈"
+  icon: "🐈‍⬛"
 role: Master's Student
 bio: |
   I am a master’s student in National Development at National Taiwan University, with an academic background in finance and economics. My research uses computational text analysis to study how firms communicate about politics and policy in their public disclosures, applying language models and embedding-based methods to turn large corpora of corporate text into measurable quantities. I am also interested in spatial analysis, and I use GIS and spatial statistics to examine how location and neighborhood structure shape economic and financial outcomes, particularly in real estate and banking networks.

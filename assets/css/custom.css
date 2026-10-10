@@ -2,3 +2,12 @@
 html {
   font-size: 100%;
 }
+/* 讓 Research 區塊的內文大小與其他區塊一致 */
+#research .prose {
+  font-size: 1rem;
+  line-height: 1.7;
+}
+#research .prose p,
+#research .prose li {
+  font-size: 1rem;
+}

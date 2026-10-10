@@ -2,7 +2,7 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Roy Liang
+  display: Gui-Ping(Roy) Liang
   given: Gui-Ping(Roy)
   family: Liang
   alternate: '梁貴評'  # 中文姓名
@@ -10,7 +10,7 @@ name:
   pronouns: ''
 postnominals: []
 status:
-  icon: "📍"
+  icon: "🐈"
 role: Master's Student
 bio: |
   I am a master’s student in National Development at National Taiwan University, with an academic background in finance and economics. My research uses computational text analysis to study how firms communicate about politics and policy in their public disclosures, applying language models and embedding-based methods to turn large corpora of corporate text into measurable quantities. I am also interested in spatial analysis, and I use GIS and spatial statistics to examine how location and neighborhood structure shape economic and financial outcomes, particularly in real estate and banking networks.
@@ -52,6 +52,13 @@ education:
     end: 2024-06-30
     summary: |
       Grade: 4.0 / 4.0
+  - degree: Associate degree, International Business
+    institution: National Taichung University of Science and Technology
+    year: 2017 – 2022
+    start: 2017-09-01
+    end: 2022-06-30
+    summary: |
+      Grade: 4.0 / 4.0
 
 experience:
   - role: Data Analyst Intern
@@ -89,7 +96,7 @@ experience:
     tags: [Financial Analysis, Market Research]
 
   - role: Research Assistant
-    org: National Taiwan University · Taipei (Part-time, Remote)
+    org: National Taiwan University · Taipei
     start: 2025-02-01
     end: 2026-01-31
     summary: |
@@ -114,15 +121,6 @@ experience:
       - Used management-provided performance indicators to rank high-performing and underperforming branches, supporting regional management's branch performance review and strategic discussions.
       - Developed and delivered internal briefing decks on compliance sales, risk management, and branch performance results for frontline staff and managers across the Yangtze River Delta network.
     tags: [Python, VBA]
-
-  - role: Branch Operations Intern
-    org: Taiwan Cooperative Bank (合作金庫商業銀行) · Taipei
-    start: 2024-02-01
-    end: 2024-06-30
-    summary: |
-      - Handled front-office retail banking operations, including account services and teller transactions, while maintaining accurate and compliant processing under time pressure.
-      - Supported branch sales efforts by introducing retail banking and insurance products to walk-in customers, strengthening my understanding of day-to-day customer needs and frontline operations.
-    tags: [Data Analysis, Retail Banking]
 
 skills:
   - name: Technical

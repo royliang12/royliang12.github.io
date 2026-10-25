@@ -15,3 +15,6 @@ main:
   - name: Portfolio
     url: projects/
     weight: 40
+  - name: CV
+    url: uploads/CV_royliang.pdf
+    weight: 50

@@ -7,6 +7,18 @@ sections:
     content:
       title: 'Research'
       text: |-
+        ### Distance That Divides: Interest versus Ideology in European Parliament Defection on China Economic Votes
+
+        Working paper (in progress; abstract submitted to MPSA 2027).
+
+        Examines why MEPs vote against their own party group on China-related files, comparing ideological distance (CHES expert survey) with their home country's trade exposure to China across 78 roll-call votes.
+
+        ### Masking the Slogan: Measuring State Discourse with Language Models
+
+        Gui-Ping Liang and Yen-Chieh Liao (working paper; abstract submitted to Asian PolMeth 2027).
+
+        Proposes a cloze-task measure of state discourse in Chinese corporate reports, testing whether about 200 language models can recover masked official slogans from context.
+
         ### The Impact of ESG Ratings on Firms' Cost of Capital and Risk
 
         NSTC Undergraduate Student Research Project, Jul 2023 – Feb 2024 (project no. 112-2813-C-141-003-H), rated A. Advisor: Prof. Li-Chuan Chou.

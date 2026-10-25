@@ -26,4 +26,6 @@ sections:
     content:
       title: Certifications
       username: me
+    design:
+      date_format: '2006'
 ---

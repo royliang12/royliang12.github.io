@@ -47,10 +47,7 @@ section[id^="research"].hbb-section {
 section#research.hbb-section {
   padding-top: 3rem;
 }
-/* Header 的 CV 連結：加框、圓角、粗體 */
+/* Header 的 CV 連結：粗體 */
 .nav-link[href$="CV_royliang.pdf"] {
   font-weight: 700;
-  border: 1.5px solid currentColor;
-  border-radius: 0.5rem;
-  padding: 0.25rem 0.75rem;
 }

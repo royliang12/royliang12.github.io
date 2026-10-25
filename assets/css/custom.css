@@ -39,3 +39,18 @@ section[id^="research"] .prose h3 {
   background: rgba(24, 24, 27, 0.9);
   box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.1), 0 10px 15px -3px rgba(0, 0, 0, 0.3);
 }
+/* Research 頁：縮小卡片之間的上下間距 */
+section[id^="research"].hbb-section {
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+}
+section#research.hbb-section {
+  padding-top: 3rem;
+}
+/* Header 的 CV 連結：加框、圓角、粗體 */
+.nav-link[href$="CV_royliang.pdf"] {
+  font-weight: 700;
+  border: 1.5px solid currentColor;
+  border-radius: 0.5rem;
+  padding: 0.25rem 0.75rem;
+}

@@ -25,11 +25,18 @@ sections:
     id: research-3
     content:
       text: |-
+        ### Do ESG Improvements Pay Off? Evidence on Cost of Capital, Risk, and Adjustment Frictions
+
+        Yun-Chia Yan, Li-Chuan Chou, and Gui-Ping Liang (revise and resubmit at *Advances in Accounting*).
+    design:
+      columns: '1'
+  - block: markdown
+    id: research-4
+    content:
+      text: |-
         ### The Impact of ESG Ratings on Firms' Cost of Capital and Risk
 
         NSTC Undergraduate Student Research Project, Jul 2023 – Feb 2024 (project no. 112-2813-C-141-003-H), rated A. Advisor: Prof. Li-Chuan Chou.
-
-        **Working paper:** Yun-Chia Yan, Li-Chuan Chou, and Gui-Ping Liang, "Do ESG Improvements Pay Off? Evidence on Cost of Capital, Risk, and Adjustment Frictions."
     design:
       columns: '1'
 ---

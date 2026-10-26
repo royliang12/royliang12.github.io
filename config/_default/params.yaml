@@ -21,7 +21,7 @@ hugoblox:
     # Short tagline displayed on your site
     tagline: ""
     # Site meta description for search engines and social sharing
-    description: "Roy Liang – NTU National Development graduate student working on finance, spatial analysis and text mining."
+    description: "梁貴評（Gui-Ping Liang），國立臺灣大學國家發展研究所碩士生。Gui-Ping Liang is a master's student at the Graduate Institute of National Development, National Taiwan University. Personal website with CV, research, and experience."
     # Social accounts (used for meta tags like Twitter Cards)
     social:
       twitter: "" # Twitter/X handle for Twitter Cards (without @)

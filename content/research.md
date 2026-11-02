@@ -18,7 +18,7 @@ sections:
       text: |-
         ### Masking the Slogan: Measuring State Discourse with Language Models
 
-        Working paper (in progress; abstract submitted to Asian PolMeth 2027).
+        Working paper (in progress; to be presented at Asian PolMeth 2027).
     design:
       columns: '1'
   - block: markdown

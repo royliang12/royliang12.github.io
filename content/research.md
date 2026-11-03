@@ -7,36 +7,33 @@ sections:
     content:
       title: 'Research'
       text: |-
-        ### Distance That Divides: Interest versus Ideology in European Parliament Defection on China Economic Votes
+        ### Working Papers & Work under Revision
 
-        Working paper (in progress; abstract submitted to MPSA 2027).
+        - **Do ESG Improvements Pay Off? Evidence on Cost of Capital, Risk, and Adjustment Frictions**  
+          Yun-Chia Yan, Li-Chuan Chou, and Gui-Ping Liang (*Revise and Resubmit at Advances in Accounting*)
     design:
       columns: '1'
   - block: markdown
     id: research-2
     content:
       text: |-
-        ### Masking the Slogan: Measuring State Discourse with Language Models
+        ### Conference & Workshop Presentations
 
-        Working paper (in progress; to be presented at Asian PolMeth 2027).
+        - **Masking the Slogan: Measuring State Discourse with Language Models**  
+          Poster to be presented at Asian PolMeth 2027
+
+        - **Distance That Divides: Interest versus Ideology in European Parliament Defection on China Economic Votes**  
+          Abstract submitted to MPSA 2027 and EPSA 2027
     design:
       columns: '1'
   - block: markdown
     id: research-3
     content:
       text: |-
-        ### Do ESG Improvements Pay Off? Evidence on Cost of Capital, Risk, and Adjustment Frictions
+        ### Research Grant
 
-        Yun-Chia Yan, Li-Chuan Chou, and Gui-Ping Liang (revise and resubmit at *Advances in Accounting*).
-    design:
-      columns: '1'
-  - block: markdown
-    id: research-4
-    content:
-      text: |-
-        ### The Impact of ESG Ratings on Firms' Cost of Capital and Risk
-
-        NSTC Undergraduate Student Research Project, Jul 2023 – Feb 2024 (project no. 112-2813-C-141-003-H), rated A. Advisor: Prof. Li-Chuan Chou.
+        - **The Impact of ESG Ratings on Firms' Cost of Capital and Risk**  
+          National Science and Technology Council (NSTC) Undergraduate Student Research Project (Grant No. 112-2813-C-141-003-H), **Rated A**. Advisor: Prof. Li-Chuan Chou.
     design:
       columns: '1'
 ---

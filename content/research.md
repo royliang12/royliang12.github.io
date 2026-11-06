@@ -23,7 +23,7 @@ sections:
           Poster to be presented at Asian PolMeth 2027
 
         - **Distance That Divides: Interest versus Ideology in European Parliament Defection on China Economic Votes**  
-          Abstract submitted to MPSA 2027 and EPSA 2027
+          Abstract submitted to MPSA 2027 and EPSS 2027
     design:
       columns: '1'
   - block: markdown

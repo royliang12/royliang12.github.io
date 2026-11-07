@@ -13,7 +13,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   identity:
     # Site name - shown in navbar, footer, copyright, and browser title by default
-    name: "Gui-Ping Liang"
+    name: "Gui Ping Liang"
     # Legal entity for copyright notices (defaults to name if not set)
     organization: ""
     # Schema.org type for structured data
@@ -21,7 +21,7 @@ hugoblox:
     # Short tagline displayed on your site
     tagline: ""
     # Site meta description for search engines and social sharing
-    description: "梁貴評（Gui-Ping Liang），國立臺灣大學國家發展研究所碩士生。Gui-Ping Liang is a master's student at the Graduate Institute of National Development, National Taiwan University. Personal website with CV, research, and experience."
+    description: "梁貴評（Gui Ping Liang），國立臺灣大學國家發展研究所碩士生。Gui Ping Liang is a master's student at the Graduate Institute of National Development, National Taiwan University. Personal website with CV, research, and experience."
     # Social accounts (used for meta tags like Twitter Cards)
     social:
       twitter: "" # Twitter/X handle for Twitter Cards (without @)

@@ -10,8 +10,7 @@ sections:
         ### Working Papers & Work under Revision
 
         - **Do ESG Improvements Pay Off? Evidence on Cost of Capital, Risk, and Adjustment Frictions**  
-          Yun Chia Yan, Li Chuan Chou, and Gui Ping Liang (*Revise and Resubmit at Advances in Accounting*) [ABDC: A | Scopus: Q2]
-    design:
+          Yun Chia Yan, Li Chuan Chou, and Gui Ping Liang (*Revise and Resubmit at Advances in Accounting*)    design:
       columns: '1'
   - block: markdown
     id: research-2

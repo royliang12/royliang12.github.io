@@ -64,12 +64,18 @@ education:
       Grade: 4.0 / 4.0
 
 experience:
+  - role: Research Analyst
+    org: Institute of Political Science, Academia Sinica (IPSAS) · Taipei
+    start: 2026-12-01
+
   - role: Data Analyst Intern
     org: Cathay Life Insurance Co., Ltd. · Taipei
     start: 2026-09-01
+    end: 2026-12-01
     summary: |
-      - Compared two property valuation models to identify which housing features drive the differences between their estimates.
-      - Extended the comparison with spatial analysis to examine how model accuracy varies across districts, flagging locations where valuations are less reliable to support regional housing-risk assessment.
+      - Built a reproducible Python pipeline to integrate multi-source property data and compare two valuation approaches, using statistical modeling and robustness checks to identify housing features associated with their differences.
+      - Extended the comparison with spatial analysis (spatial autocorrelation, hotspot detection, geographically weighted regression) to examine how model accuracy varies across districts, flagging locations where valuations may be less reliable to support regional housing-risk assessment.
+      - Decomposed valuation gaps to trace their potential sources, delivering maps, watchlists and monitoring recommendations to help prioritize cases for review.
 
   - role: Corporate Banking Intern
     org: Fubon Hua Yi Bank (富邦华一银行) · Tianjin

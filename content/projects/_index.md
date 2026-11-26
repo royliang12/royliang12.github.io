@@ -3,6 +3,11 @@ title: 'Portfolio'
 date: 2026-10-09
 type: landing
 
+# Hidden: neither this page nor the project pages under it are published.
+draft: true
+cascade:
+  draft: true
+
 # Page sections
 sections:
   - block: collection

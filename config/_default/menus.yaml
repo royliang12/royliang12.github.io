@@ -12,9 +12,11 @@ main:
   - name: Research
     url: research/
     weight: 30
-  - name: Portfolio
-    url: projects/
-    weight: 40
+  # Portfolio is hidden. To restore it, uncomment these 3 lines and remove
+  # `draft` / `cascade` from content/projects/_index.md.
+  # - name: Portfolio
+  #   url: projects/
+  #   weight: 40
   - name: CV
     url: uploads/CV_royliang.pdf
     weight: 50
